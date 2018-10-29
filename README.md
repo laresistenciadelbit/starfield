@@ -1,6 +1,8 @@
 # starfield
 Draw a star field in js moving in the desired direction.
 
+![alt starfield](https://raw.githubusercontent.com/laresistenciadelbit/starfield/branch/screenshots/stars.gif)
+
 [ENGLISH]
 
 It's based in two scripts:
